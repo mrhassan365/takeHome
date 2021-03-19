@@ -8,7 +8,7 @@ To run tests from Cypress runner run the : 'npx cypress open' command (preferabl
 
 To run the tests directly from command line use the: 'npx cypress run' command
 
-Main spec file with the tests are under tests > cypress > integration > otcMarkets.spec.js (this spec file has comments on what each tests are validating as well)
+Main spec file with the tests are under tests > cypress > integration > otcMarkets.spec.js 
 
 Element selectors file is in tests > cypress > fixtures > testdata.json //was using this prior to adding a command that allows you to perform the same test for multiple data
 
