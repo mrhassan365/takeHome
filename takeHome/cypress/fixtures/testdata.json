@@ -1,0 +1,30 @@
+{
+  "url": "https://www.otcmarkets.com",
+  "searchTerm1": "OTCM",
+  "quoteTextBox":"._2LtWySGSlk > :nth-child(1) > ._3XTsBmZSmj > ._1jocgGqVNR > input",
+  "searchButton": "._2LtWySGSlk > :nth-child(1) > ._3XTsBmZSmj > ._1jocgGqVNR > svg > g > path",
+  "quoteTab": "._3FGgPCya0x > :nth-child(3) > a",
+  "securityDetailsTab": "._3FGgPCya0x > :nth-child(5) > a",
+  "securityDetailsTabMarketCap": ":nth-child(3) > .kYmYWE",
+  "open": "._2AJ8TxkVSp > :nth-child(1) > p",
+  "marketCap": "._2AJ8TxkVSp > :nth-child(11) > p",
+  "symbols": "div.has-loader > table > tbody > tr > td > a",
+  "tableRow": "div.has-loader > table > tbody > tr",
+
+  "fullPager": "div.true-grid-8 > div.text-center > div > ul > li",
+  
+  "first": "div > div.true-grid-8 > div.text-center > div > ul > li:nth-child(1)",
+  "previous": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(2)",
+  "firstPage": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(3)",
+
+  "lastPage": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(7)",
+  "next": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(8)",
+  "last": "div.true-grid-8 > div.text-center > div > ul > li:nth-child(9)",
+
+  "filter": "#instrumentFilter",
+
+  "noResultsMessage": "div.true-grid-8 > div.has-loader > table > tbody > tr > td",
+
+  "testData": ["RHHBY", "OTCM", "ADBCF"]
+  
+}
